@@ -1,0 +1,34 @@
+# Obsidian workspace (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/
+.obsidian/workspace.json.bak
+
+# Plugin installations (users install from community-plugins.json)
+.obsidian/plugins/*/
+
+# Themes (users download separately)
+.obsidian/themes/
+
+# User-specific settings
+.obsidian/graph.json
+
+# Obsidian sync
+.obsidian/sync-config.json
+
+# Trash
+.trash/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+
+TODO.md
